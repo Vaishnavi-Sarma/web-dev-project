@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Vaishnavi-Sarma/web-dev-project/issues"
   },
-  "homepage": "https://github.com/Vaishnavi-Sarma/web-dev-project#readme"
+  "homepage": "https://github.com/Vaishnavi-Sarma/web-dev-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
