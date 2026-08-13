@@ -1,12 +1,12 @@
 const users = [
  {
-   "name" : "Jonn Doe",
+   "name" : "John Doe",
    "gender" : "Male",
    "image" : "john.png"
  },
    {
    "name" : "Jane Doe",
-   "gender" : "Feale",
+   "gender" : "Female",
    "image" : "jane.png"
  }
 ]
