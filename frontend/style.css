@@ -1,5 +1,6 @@
 body{
     background-color: rgb(196, 194, 173);
+    margin-top: 0px;
 }
 .card{
   background-color: aliceblue;
@@ -21,4 +22,24 @@ body{
     border-radius: 20px;
     padding :10px;
     
+}
+
+.navbar{
+    border:3px solid black;
+    height:20px;
+    width:100%;
+    background-color: aliceblue;
+    text-align: center;
+    padding:15px;
+   
+}
+.navbar a{
+    margin-right:20px;
+    text-decoration: none;
+    color:rgb(89, 89, 89);
+    font-size: 1.2em;
+}
+.navbar a:hover{
+  color:black;
+  text-decoration:underline;
 }
