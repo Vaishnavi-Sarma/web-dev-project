@@ -1,4 +1,3 @@
-const { response } = require("express");
 
 const users = [
  {
@@ -12,6 +11,7 @@ const users = [
    "image" : "jane.png"
  }
 ]
+
 var curIndex = 0;
 
 
@@ -39,5 +39,4 @@ function random(){
         let fullname = detail.name.title + " " + detail.name.first + " "+ detail.name.last
         document.getElementById("card-name").innerText=fullname
     })
-
 }
